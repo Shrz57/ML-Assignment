@@ -1,0 +1,75 @@
+Day 1
+extend
+elk stack ...
+enumerate..
+itertools.zip 
+iterable..
+list comprehensions..
+cognitive complexity (nested loop)
+refactoring
+
+
+Classroom code 'njdjyxu'
+
+
+Day 2
+Formatters 
+PEP 8
+python enhancement Propasal
+Linter
+doc-string ?? it is necessary ..
+We Strictly follow google format.
+
+
+pylint 
+formatter black --- line width 79
+Google colab 
+	- GPU
+	-TPU
+
+*******************************
+Git 
+Initialize inside folder
+git init .
+to create branch 
+git branch branch_name
+to shift 
+git checkout branch_name
+to show the branch 
+git branch 
+
+git push -u origin branch_name
+to find the difference 
+\
+git diff <<filename>>
+
+
+pypi.org  
+
+virtual Environment 
+1 virtualenv
+2 Conda(More powerful than virtual environment)
+	conda create --name<env_name> (to install python) python="3.8"
+	(to activate) conda activate <env_name>
+
+
+3 Poetry (impo)*** dependency management
+	development package and Production package 
+
+
+pillow (image related)****
+sklearn
+
+pdbpp
+
+FOR DOCSTING
+from typing import List, Dist
+def doc_demo(
+
+
+
+
+(pytorch)  --> sphnix
+readthedoc.io
+
+

@@ -1,0 +1,71 @@
+***** Machine Leraning ****
+Transforming Information into Knowledge.
+
+deepl better than Google Translate
+
+Types 
+-> Supervised Learning 
+-> classification (face recognition)  
+-> Regression (interpolation and Extrapolation)
+	Linear Regression
+	Random Forest Regression 
+	Ridge Regression
+	Lasso Regression
+	Polynomial Regression 														
+
+																 Stock Market (past data use garera future predict garnah regression use hunxah ) 
+-> Unsupervised Learning
+	>>Clustering
+		=> features related dividing 	
+			---> Customer segmentation 
+			---> statistical data analysis
+			---> Image Segmentation
+			---> Anomaly detection
+		=> Similar features lie auta group ma rakhxah ...
+		=> Eucledean Distance
+	   Clustering Algorithm
+		--> KMEANS 
+		--> Density Based Spatial clustering 
+		--> Agglomerative Hierarchical algorithm ***
+	>>Dimensionality Reduction
+		==> Principle Component Analysis(PCA)
+		==> Linear Discriminant Analysis(LDA)
+			--> (Curse of dimensionality)features Engineering
+	>> Association
+-> Reinforcement Learning( Reward and Punishment)
+
+	--<> RObert (agent)
+	--<> Self Driving Car ( Computer Vision and REinforcement )
+	--<> Agent
+	--<> Environment
+	--<> Action
+	--<> State
+	--<> Reward
+
+---> Multi Class
+	VS
+---> Multi Label 
+
+
+********* Google's BERT(Unsupervised Leraning with nural network )************************
+
+--->>> Ensemble methods ..****
+***tableau***
+Challenges in Machine Learning 
+	@->Insufficient Data
+	@->Irrelevent Features
+	@-> hyperparameter Tuning and model selection
+
+
+MAchine Learning WorkFlow
+	*->Gathering Data
+	*->Data Preparation
+	*->Data Wrangling
+	*->Analyse DAta
+	*->Train the model
+	*->Test the model
+	*->Deployment -(MLOPS --> CML(Library))
+
+
+*******transfer learning {T%}******************
+
